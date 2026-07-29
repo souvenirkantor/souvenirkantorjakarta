@@ -62,6 +62,9 @@
     />
     <meta property="og:site_name" content="Souvenir Kantor" />
     <meta property="og:locale" content="id_ID" />
+    <meta property="product:price:amount" content="55000" />
+    <meta property="product:price:currency" content="IDR" />
+    <meta property="product:availability" content="in stock" />
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -143,7 +146,6 @@
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
     <link href="assets/css/main.css" rel="stylesheet" />
 
-    <!-- JSON-LD Schema Markup -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -281,6 +283,8 @@
               "lowPrice": "55000",
               "highPrice": "150000",
               "priceCurrency": "IDR",
+              "offerCount": "5",
+              "validFrom": "2024-01-01",
               "availability": "https://schema.org/InStock",
               "url": "https://souvenirkantorjakarta.web.id/produk-flashdisk.html",
               "shippingDetails": {
@@ -293,15 +297,62 @@
                 "shippingDestination": {
                   "@type": "DefinedRegion",
                   "addressCountry": "ID"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 3,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 2,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
                 }
               },
               "hasMerchantReturnPolicy": {
                 "@type": "MerchantReturnPolicy",
                 "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
                 "returnMethod": "https://schema.org/ReturnByMail",
-                "returnFees": "https://schema.org/FreeReturn"
+                "returnFees": "https://schema.org/FreeReturn",
+                "returnWindow": {
+                  "@type": "QuantitativeValue",
+                  "value": 14,
+                  "unitCode": "DAY"
+                },
+                "merchantReturnDays": 14,
+                "applicableCountry": "ID",
+                "returnShippingFeesAmount": {
+                  "@type": "MonetaryAmount",
+                  "value": "0",
+                  "currency": "IDR"
+                }
               }
-            }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "29"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5"
+                },
+                "author": {
+                  "@type": "Person",
+                  "name": "Rudi Hartono"
+                },
+                "reviewBody": "Flashdisk kayunya elegan, ukiran logo sangat rapi. Kapasitas sesuai, pengiriman cepat. Sangat recomended!"
+              }
+            ]
           },
           {
             "@type": "WebPage",
@@ -317,7 +368,7 @@
               "@id": "https://souvenirkantorjakarta.web.id/#organization"
             },
             "datePublished": "2024-01-01",
-            "dateModified": "2026-07-25"
+            "dateModified": "2026-07-30"
           }
         ]
       }

@@ -97,7 +97,6 @@
       type="image/x-icon"
     />
 
-    <!-- ===== SCHEMA MARKUP JSON-LD (SEO + AEO + GEO) ===== -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -119,11 +118,57 @@
           "priceCurrency": "IDR",
           "price": "450000",
           "priceValidUntil": "2026-12-31",
+          "validFrom": "2024-01-01",
           "availability": "https://schema.org/InStock",
           "itemCondition": "https://schema.org/NewCondition",
           "seller": {
             "@type": "Organization",
             "name": "Souvenir Kantor"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0",
+              "currency": "IDR"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "ID"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 3,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 2,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              }
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/FreeReturn",
+            "returnWindow": {
+              "@type": "QuantitativeValue",
+              "value": 14,
+              "unitCode": "DAY"
+            },
+            "merchantReturnDays": 14,
+            "applicableCountry": "ID",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "0",
+              "currency": "IDR"
+            }
           }
         },
         "aggregateRating": {
