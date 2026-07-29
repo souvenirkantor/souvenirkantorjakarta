@@ -1,0 +1,27 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/tentang", "destination": "/tentang.html" },
+    { "source": "/produk", "destination": "/produk.html" },
+    { "source": "/produk-gift-set-eksekutif", "destination": "/produk-gift-set-eksekutif.html" },
+    { "source": "/produk-plakat-kristal", "destination": "/produk-plakat-kristal.html" },
+    { "source": "/produk-welcome-kit", "destination": "/produk-welcome-kit.html" },
+    { "source": "/produk-tumbler", "destination": "/produk-tumbler.html" },
+    { "source": "/produk-tote-bag", "destination": "/produk-tote-bag.html" },
+    { "source": "/produk-mug-keramik", "destination": "/produk-mug-keramik.html" },
+    { "source": "/produk-payung-lipat", "destination": "/produk-payung-lipat.html" },
+    { "source": "/produk-flashdisk", "destination": "/produk-flashdisk.html" },
+    { "source": "/produk-notes-pulpen", "destination": "/produk-notes-pulpen.html" },
+    { "source": "/produk-set-aksesoris", "destination": "/produk-set-aksesoris.html" },
+    { "source": "/blog", "destination": "/blog.html" },
+    { "source": "/ide-souvenir-kantor-unik-meningkatkan-branding", "destination": "/ide-souvenir-kantor-unik-meningkatkan-branding.html" },
+    { "source": "/tips-memilih-vendor-souvenir-kantor-terpercaya", "destination": "/tips-memilih-vendor-souvenir-kantor-terpercaya.html" },
+    { "source": "/perbandingan-teknik-cetak-logo-sablon-vs-uv-vs-grafir", "destination": "/perbandingan-teknik-cetak-logo-sablon-vs-uv-vs-grafir.html" },
+    { "source": "/pentingnya-onboarding-kit-untuk-karyawan-baru", "destination": "/pentingnya-onboarding-kit-untuk-karyawan-baru.html" },
+    { "source": "/merchandise-promosi-masih-relevan-di-era-digital", "destination": "/merchandise-promosi-masih-relevan-di-era-digital.html" },
+    { "source": "/plakat-kristal-vs-akrilik-mana-yang-lebih-baik", "destination": "/plakat-kristal-vs-akrilik-mana-yang-lebih-baik.html" },
+    { "source": "/gallery", "destination": "/gallery.html" },
+    { "source": "/kontak", "destination": "/kontak.html" }
+  ],
+  "cleanUrls": true
+}
