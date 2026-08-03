@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="id-ID">
   <head>
     <meta charset="UTF-8" />
@@ -49,7 +49,7 @@
     <meta property="og:type" content="article" />
     <meta
       property="og:url"
-      content="https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-logo-identitas-brand-profesional.html"
+      content="https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-logo-identitas-brand-profesional"
     />
     <meta
       property="og:title"
@@ -78,7 +78,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:url"
-      content="https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-logo-identitas-brand-profesional.html"
+      content="https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-logo-identitas-brand-profesional"
     />
     <meta
       name="twitter:title"
@@ -211,6 +211,7 @@
             "telephone": "+62-889-8964-3555",
             "email": "info@souvenirkantorjakarta.web.id",
             "priceRange": "Rp20.000 - Rp500.000",
+        "hasMap": "https://maps.google.com/?q=Jl.+Raya+Industri+No.+88+Malang",
             "address": {
               "@type": "PostalAddress",
               "streetAddress": "Jl. Raya Industri No. 88",
@@ -238,11 +239,25 @@
                 "closes": "17:00"
               }
             ],
-            "areaServed": {
-              "@type": "Country",
-              "name": "Indonesia"
-            },
-            "parentOrganization": {
+            "areaServed": [
+          { "@type": "City", "name": "Jakarta" },
+          { "@type": "City", "name": "Malang" },
+          { "@type": "City", "name": "Surabaya" },
+          { "@type": "City", "name": "Bandung" },
+          { "@type": "City", "name": "Bekasi" },
+          { "@type": "City", "name": "Tangerang" },
+          { "@type": "Country", "name": "Indonesia" }
+        ],
+            "serviceArea": {
+          "@type": "GeoCircle",
+          "geoMidpoint": {
+            "@type": "GeoCoordinates",
+            "latitude": "-7.983908",
+            "longitude": "112.621391"
+          },
+          "geoRadius": "1000000"
+        },
+        "parentOrganization": {
               "@id": "https://souvenirkantorjakarta.web.id/#organization"
             }
           },
@@ -327,6 +342,21 @@
         ]
       }
     </script>
+  
+    <!-- Speakable (Voice Search / AI Assistant) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": ["h1", ".lead", ".section-title h2", ".hero-content"]
+        },
+        "url": "https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-logo-identitas-brand-profesional"
+      }
+    </script>
+      <!-- Sitemap Discovery -->
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
   </head>
 
   <body class="starter-page-page">

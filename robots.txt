@@ -1,0 +1,11 @@
+# robots.txt — souvenirkantorjakarta.web.id
+
+User-agent: *
+Allow: /
+
+# Block file-file yang tidak perlu diindeks
+Disallow: /assets/vendor/
+Disallow: /googleba3cab13af257b2f.html
+
+# Sitemap
+Sitemap: https://souvenirkantorjakarta.web.id/sitemap.xml

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
 
   <!-- ===== HALAMAN UTAMA ===== -->
   <url>
@@ -7,6 +10,21 @@
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/about-souvenir.webp</image:loc>
+      <image:title>Vendor Souvenir Kantor Custom Premium Jakarta</image:title>
+      <image:caption>Souvenir kantor custom logo premium - gift set, welcome kit, mug, tumbler</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/souvenir-kantor.webp</image:loc>
+      <image:title>Gift Set Eksekutif Souvenir Kantor</image:title>
+      <image:caption>Paket gift set eksekutif souvenir kantor custom logo perusahaan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/welcome-kit.webp</image:loc>
+      <image:title>Welcome Kit Karyawan Onboarding Custom</image:title>
+      <image:caption>Paket welcome kit onboarding karyawan baru custom logo perusahaan</image:caption>
+    </image:image>
   </url>
 
   <!-- ===== HALAMAN STATIS ===== -->
@@ -21,6 +39,11 @@
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/set-premium.webp</image:loc>
+      <image:title>Katalog Produk Souvenir Kantor Premium</image:title>
+      <image:caption>Lengkap katalog souvenir kantor custom logo premium Jakarta Malang</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://souvenirkantorjakarta.web.id/gallery</loc>
@@ -53,36 +76,66 @@
     <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/flashdisk.webp</image:loc>
+      <image:title>Flashdisk Custom Logo Perusahaan</image:title>
+      <image:caption>Souvenir flashdisk custom logo perusahaan kapasitas 8GB-64GB</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-gift-set-eksklusif</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/gift-set.webp</image:loc>
+      <image:title>Gift Set Eksekutif Custom Logo</image:title>
+      <image:caption>Paket gift set eksekutif pulpen metal dan notebook kulit custom logo</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-mug-keramik</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/mug-keramik.webp</image:loc>
+      <image:title>Mug Keramik Custom Logo Sablon UV</image:title>
+      <image:caption>Souvenir mug keramik custom logo sablon atau UV premium</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-notes-pulpen</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/pen.webp</image:loc>
+      <image:title>Notes dan Pulpen Custom Logo</image:title>
+      <image:caption>Souvenir notes dan pulpen custom logo perusahaan premium</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-payung-lipat</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/payung.webp</image:loc>
+      <image:title>Payung Lipat Custom Logo Perusahaan</image:title>
+      <image:caption>Souvenir payung lipat custom logo sablon perusahaan</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-plakat-kristal</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/plakat-blog.webp</image:loc>
+      <image:title>Plakat Kristal 3D Custom Perusahaan</image:title>
+      <image:caption>Souvenir plakat kristal 3D custom laser engraving premium</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-set-aksesoris</loc>
@@ -101,12 +154,22 @@
     <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/tumbler.webp</image:loc>
+      <image:title>Tumbler Stainless Custom Logo</image:title>
+      <image:caption>Souvenir tumbler stainless steel custom logo perusahaan premium</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-welcome-kit</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/welcome-kit.webp</image:loc>
+      <image:title>Welcome Kit Onboarding Karyawan Custom</image:title>
+      <image:caption>Paket welcome kit onboarding karyawan baru custom logo perusahaan lengkap</image:caption>
+    </image:image>
   </url>
 
   <!-- ===== HALAMAN PAKET & KOLEKSI ===== -->

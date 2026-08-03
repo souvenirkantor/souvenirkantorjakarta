@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="id">
   <head>
     <meta charset="utf-8" />
@@ -23,7 +23,7 @@
     />
 
     <!-- ===== ROBOTS & GEO TARGETING ===== -->
-    <meta name="robots" content="index, follow" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <meta name="geo.region" content="ID-JT" />
     <meta name="geo.placename" content="Malang" />
     <meta name="geo.position" content="-7.966620;112.632632" />
@@ -252,7 +252,9 @@
         },
         "sameAs": [
           "https://www.facebook.com/souvenirkantor",
-          "https://www.instagram.com/souvenirkantor"
+          "https://www.instagram.com/souvenirkantor",
+          "https://api.whatsapp.com/send?phone=6288989643555",
+          "https://maps.google.com/?q=Souvenir+Kantor+Malang"
         ]
       }
     </script>
@@ -305,6 +307,21 @@
     />
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
     <link href="assets/css/main.css" rel="stylesheet" />
+  
+    <!-- Speakable (Voice Search / AI Assistant) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": ["h1", ".lead", ".section-title h2", ".hero-content"]
+        },
+        "url": "https://souvenirkantorjakarta.web.id/produk-set-aksesoris"
+      }
+    </script>
+      <!-- Sitemap Discovery -->
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
   </head>
 
   <body class="starter-page-page">

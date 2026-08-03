@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="id-ID">
   <head>
     <meta charset="utf-8" />
@@ -121,6 +121,9 @@
     <meta name="msapplication-TileColor" content="#1a5f7a" />
     <meta name="msapplication-TileImage" content="assets/img/logo/logo2.png" />
     <link rel="manifest" href="/manifest.json" />
+
+    <!-- Sitemap Discovery -->
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
 
     <!-- Fonts & Vendor CSS -->
     <link
@@ -258,8 +261,10 @@
             },
             "sameAs": [
               "https://www.facebook.com/souvenirkantor",
-              "https://www.instagram.com/souvenirkantor"
-            ],
+              "https://www.instagram.com/souvenirkantor",
+          "https://api.whatsapp.com/send?phone=6288989643555",
+          "https://maps.google.com/?q=Souvenir+Kantor+Malang"
+        ],
             "contactPoint": {
               "@type": "ContactPoint",
               "telephone": "+62-889-8964-3555",
@@ -291,6 +296,7 @@
             "telephone": "+62-889-8964-3555",
             "email": "info@souvenirkantorjakarta.web.id",
             "priceRange": "Rp20.000 - Rp500.000",
+        "hasMap": "https://maps.google.com/?q=Jl.+Raya+Industri+No.+88+Malang",
             "address": {
               "@type": "PostalAddress",
               "streetAddress": "Jl. Raya Industri No. 88",
@@ -324,11 +330,25 @@
                 "closes": "12:00"
               }
             ],
-            "areaServed": {
-              "@type": "Country",
-              "name": "Indonesia"
-            },
-            "parentOrganization": {
+            "areaServed": [
+          { "@type": "City", "name": "Jakarta" },
+          { "@type": "City", "name": "Malang" },
+          { "@type": "City", "name": "Surabaya" },
+          { "@type": "City", "name": "Bandung" },
+          { "@type": "City", "name": "Bekasi" },
+          { "@type": "City", "name": "Tangerang" },
+          { "@type": "Country", "name": "Indonesia" }
+        ],
+            "serviceArea": {
+          "@type": "GeoCircle",
+          "geoMidpoint": {
+            "@type": "GeoCoordinates",
+            "latitude": "-7.983908",
+            "longitude": "112.621391"
+          },
+          "geoRadius": "1000000"
+        },
+        "parentOrganization": {
               "@id": "https://souvenirkantorjakarta.web.id/#organization"
             }
           },
@@ -389,6 +409,19 @@
             "dateModified": "2026-07-25"
           }
         ]
+      }
+    </script>
+  
+    <!-- Speakable (Voice Search / AI Assistant) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": ["h1", ".lead", ".section-title h2", ".hero-content"]
+        },
+        "url": "https://souvenirkantorjakarta.web.id/kontak"
       }
     </script>
   </head>

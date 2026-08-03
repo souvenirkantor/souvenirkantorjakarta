@@ -113,6 +113,9 @@
     <!-- Web App Manifest -->
     <link rel="manifest" href="/manifest.json" />
 
+    <!-- Sitemap Discovery -->
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+
     <!-- ===== CSS ===== -->
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
@@ -151,7 +154,9 @@
         },
         "sameAs": [
           "https://www.facebook.com/souvenirkantor",
-          "https://www.instagram.com/souvenirkantor"
+          "https://www.instagram.com/souvenirkantor",
+          "https://api.whatsapp.com/send?phone=6288989643555",
+          "https://maps.google.com/?q=Souvenir+Kantor+Malang"
         ],
         "contactPoint": {
           "@type": "ContactPoint",
@@ -183,12 +188,13 @@
         "@type": "LocalBusiness",
         "@id": "https://souvenirkantorjakarta.web.id/#localbusiness",
         "name": "Souvenir Kantor",
-        "description": "Vendor souvenir kantor terpercaya menyediakan souvenir custom logo, onboarding kit, dan hadiah perusahaan premium.",
+        "description": "Vendor souvenir kantor terpercaya menyediakan souvenir custom logo, onboarding kit, dan hadiah perusahaan premium. Melayani Jakarta, Malang, Surabaya, Bandung, dan seluruh Indonesia.",
         "image": "https://souvenirkantorjakarta.web.id/assets/img/produk/about-souvenir.webp",
         "url": "https://souvenirkantorjakarta.web.id/",
         "telephone": "+62-889-8964-3555",
         "email": "info@souvenirkantorjakarta.web.id",
         "priceRange": "Rp20.000 - Rp500.000",
+        "hasMap": "https://maps.google.com/?q=Jl.+Raya+Industri+No.+88+Malang",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Jl. Raya Industri No. 88",
@@ -208,11 +214,31 @@
             "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
             "opens": "08:00",
             "closes": "17:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Saturday"],
+            "opens": "09:00",
+            "closes": "14:00"
           }
         ],
-        "areaServed": {
-          "@type": "Country",
-          "name": "Indonesia"
+        "areaServed": [
+          { "@type": "City", "name": "Jakarta" },
+          { "@type": "City", "name": "Malang" },
+          { "@type": "City", "name": "Surabaya" },
+          { "@type": "City", "name": "Bandung" },
+          { "@type": "City", "name": "Bekasi" },
+          { "@type": "City", "name": "Tangerang" },
+          { "@type": "Country", "name": "Indonesia" }
+        ],
+        "serviceArea": {
+          "@type": "GeoCircle",
+          "geoMidpoint": {
+            "@type": "GeoCoordinates",
+            "latitude": "-7.983908",
+            "longitude": "112.621391"
+          },
+          "geoRadius": "1000000"
         },
         "parentOrganization": {
           "@id": "https://souvenirkantorjakarta.web.id/#organization"
@@ -306,8 +332,123 @@
               "@type": "Answer",
               "text": "Souvenir kantor premium meliputi plakat kristal 3D, gift set pulpen eksklusif & notebook kulit, powerbank wireless custom, jam meja mewah, dan set cangkir keramik dengan pemanas. Semua dapat disesuaikan dengan logo perusahaan."
             }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah melayani pengiriman ke seluruh Indonesia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ya, kami melayani pengiriman ke seluruh Indonesia melalui ekspedisi terpercaya. Pengiriman ke Jakarta, Surabaya, Bandung, Bekasi, dan kota-kota besar lainnya tersedia dengan jaminan keamanan produk."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apa saja metode pembayaran yang diterima?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Kami menerima pembayaran melalui transfer bank (BCA, Mandiri, BNI), QRIS, dan dapat disesuaikan untuk kebutuhan perusahaan dengan sistem purchase order (PO)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Di mana area layanan vendor souvenir kantor ini?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Kami berbasis di Malang, Jawa Timur, dan melayani klien dari Jakarta, Surabaya, Bandung, Bekasi, Tangerang, serta seluruh wilayah Indonesia. Proses pemesanan dapat dilakukan secara online melalui WhatsApp."
+            }
           }
         ]
+      }
+    </script>
+
+    <!-- HowTo: Cara Memesan Souvenir Kantor -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Cara Memesan Souvenir Kantor Custom Logo",
+        "description": "Panduan lengkap cara memesan souvenir kantor custom logo dari Souvenir Kantor Jakarta.",
+        "totalTime": "PT7D",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "IDR",
+          "value": "20000"
+        },
+        "supply": [
+          { "@type": "HowToSupply", "name": "File logo perusahaan (format AI/CDR/PNG)" },
+          { "@type": "HowToSupply", "name": "Jumlah pesanan" },
+          { "@type": "HowToSupply", "name": "Referensi desain (opsional)" }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Konsultasi & Pilih Produk",
+            "text": "Hubungi kami via WhatsApp atau email untuk konsultasi kebutuhan souvenir. Pilih jenis produk dari katalog kami: mug, tumbler, gift set, welcome kit, dan lainnya.",
+            "url": "https://souvenirkantorjakarta.web.id/produk"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Kirim Desain Logo",
+            "text": "Kirimkan file logo perusahaan Anda (format AI, CDR, atau PNG resolusi tinggi). Tim desainer kami akan membuat mockup produk sesuai brand Anda.",
+            "url": "https://souvenirkantorjakarta.web.id/kontak"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Persetujuan Desain & DP",
+            "text": "Setujui desain mockup yang telah kami buat. Lakukan pembayaran DP 50% untuk memulai produksi."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Proses Produksi",
+            "text": "Produksi berlangsung 7–14 hari kerja tergantung jenis produk dan teknik cetak (sablon, grafir laser, UV print)."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Pengiriman ke Seluruh Indonesia",
+            "text": "Setelah pelunasan, produk dikemas dengan aman dan dikirim via ekspedisi ke seluruh Indonesia. Estimasi pengiriman 1–3 hari kerja."
+          }
+        ]
+      }
+    </script>
+
+    <!-- ItemList: Daftar Produk -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Daftar Produk Souvenir Kantor Custom",
+        "description": "Koleksi lengkap souvenir kantor custom logo premium dari Souvenir Kantor Jakarta.",
+        "numberOfItems": 10,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Gift Set Eksekutif", "url": "https://souvenirkantorjakarta.web.id/produk-gift-set-eksklusif" },
+          { "@type": "ListItem", "position": 2, "name": "Welcome Kit Karyawan", "url": "https://souvenirkantorjakarta.web.id/produk-welcome-kit" },
+          { "@type": "ListItem", "position": 3, "name": "Mug Keramik Custom", "url": "https://souvenirkantorjakarta.web.id/produk-mug-keramik" },
+          { "@type": "ListItem", "position": 4, "name": "Tumbler Stainless Custom", "url": "https://souvenirkantorjakarta.web.id/produk-tumbler" },
+          { "@type": "ListItem", "position": 5, "name": "Plakat Kristal 3D", "url": "https://souvenirkantorjakarta.web.id/produk-plakat-kristal" },
+          { "@type": "ListItem", "position": 6, "name": "Tote Bag Custom", "url": "https://souvenirkantorjakarta.web.id/produk-tote-bag" },
+          { "@type": "ListItem", "position": 7, "name": "Payung Lipat Custom", "url": "https://souvenirkantorjakarta.web.id/produk-payung-lipat" },
+          { "@type": "ListItem", "position": 8, "name": "Notes & Pulpen Custom", "url": "https://souvenirkantorjakarta.web.id/produk-notes-pulpen" },
+          { "@type": "ListItem", "position": 9, "name": "Set Aksesoris Kantor", "url": "https://souvenirkantorjakarta.web.id/produk-set-aksesoris" },
+          { "@type": "ListItem", "position": 10, "name": "Flashdisk Custom", "url": "https://souvenirkantorjakarta.web.id/produk-flashdisk" }
+        ]
+      }
+    </script>
+
+    <!-- Speakable (Voice Search / AI Assistant) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [".hero-content h1", ".hero-content .lead", ".about-content .lead", ".section-title h2"]
+        },
+        "url": "https://souvenirkantorjakarta.web.id/"
       }
     </script>
 
@@ -516,7 +657,7 @@
           <div class="row gy-4 align-items-center">
             <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-right" data-aos-delay="200">
               <div class="hero-content">
-                <h1>Vendor Souvenir Kantor jakarta Custom Premium</h1>
+                <h1>Vendor Souvenir Kantor Jakarta Custom Premium</h1>
                 <p class="lead">Solusi souvenir kantor custom logo premium untuk kebutuhan perusahaan, onboarding karyawan, hadiah VIP, dan merchandise promosi. Dapatkan penawaran terbaik dari vendor souvenir kantor terpercaya di Jakarta & Malang.</p>
                 <div class="hero-buttons">
                   <a href="produk.html" class="btn btn-primary">Lihat Produk Souvenir</a>
