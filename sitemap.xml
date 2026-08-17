@@ -4,76 +4,177 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 
-  <!-- ===== HALAMAN UTAMA ===== -->
   <url>
-    <loc>https://souvenirkantorjakarta.web.id/</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/about-souvenir.webp</image:loc>
-      <image:title>Vendor Souvenir Kantor Custom Premium Jakarta</image:title>
-      <image:caption>Souvenir kantor custom logo premium - gift set, welcome kit, mug, tumbler</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/souvenir-kantor.webp</image:loc>
-      <image:title>Gift Set Eksekutif Souvenir Kantor</image:title>
-      <image:caption>Paket gift set eksekutif souvenir kantor custom logo perusahaan</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/welcome-kit.webp</image:loc>
-      <image:title>Welcome Kit Karyawan Onboarding Custom</image:title>
-      <image:caption>Paket welcome kit onboarding karyawan baru custom logo perusahaan</image:caption>
-    </image:image>
-  </url>
-
-  <!-- ===== HALAMAN STATIS ===== -->
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/tentang</loc>
-    <lastmod>2026-08-03</lastmod>
+    <loc>https://souvenirkantorjakarta.web.id/beda-kebutuhan-souvenir-kantor-untuk-klien-karyawan</loc>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/produk</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/set-premium.webp</image:loc>
-      <image:title>Katalog Produk Souvenir Kantor Premium</image:title>
-      <image:caption>Lengkap katalog souvenir kantor custom logo premium Jakarta Malang</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/gallery</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/blog</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/blog-2</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://souvenirkantorjakarta.web.id/kontak</loc>
-    <lastmod>2026-08-03</lastmod>
+    <loc>https://souvenirkantorjakarta.web.id/blog-3</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/blog-4</loc>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- ===== HALAMAN PRODUK ===== -->
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/blog</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/bundling-souvenir-kantor-eksklusif-bandung</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/executive-series-souvenir-kantor-custom-logo-finishing-premium-surabaya</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/gallery</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/gift-set-souvenir-kantor-premium</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/ide-souvenir-kantor-custom-branding-perusahaan</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/kontak</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/office-starter-pack-souvenir-kantor-custom-logo-esensial</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/paket-seminar-kit-eksklusif-50-ribuan</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/paket-seminar-kit-murah-20-ribuan</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/paket-souvenir-kantor-gathering-anniversary-perusahaan</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/paket-souvenir-kantor-premium-jakarta-raya</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/paket-souvenir-kantor-premium-jakarta</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/paket-souvenir-kantor</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/paket-souvenir-perusahaan</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/pilihan-paket-souvenir-kantor-fungsional</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/pilihan-paket-souvenir-perusahaan-fungsional</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/pilihan-souvenir-kantor-20-ribuan-fungsional</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/pilihan-souvenir-kantor-50-ribuan-fungsional</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-flashdisk</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -82,9 +183,10 @@
       <image:caption>Souvenir flashdisk custom logo perusahaan kapasitas 8GB-64GB</image:caption>
     </image:image>
   </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-gift-set-eksklusif</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -93,9 +195,10 @@
       <image:caption>Paket gift set eksekutif pulpen metal dan notebook kulit custom logo</image:caption>
     </image:image>
   </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-mug-keramik</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -104,9 +207,10 @@
       <image:caption>Souvenir mug keramik custom logo sablon atau UV premium</image:caption>
     </image:image>
   </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-notes-pulpen</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -115,9 +219,10 @@
       <image:caption>Souvenir notes dan pulpen custom logo perusahaan premium</image:caption>
     </image:image>
   </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-payung-lipat</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -126,9 +231,10 @@
       <image:caption>Souvenir payung lipat custom logo sablon perusahaan</image:caption>
     </image:image>
   </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-plakat-kristal</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -137,21 +243,31 @@
       <image:caption>Souvenir plakat kristal 3D custom laser engraving premium</image:caption>
     </image:image>
   </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-set-aksesoris</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/produk-souvenir-kantor-unik-merchandise-perusahaan</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-tote-bag</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-tumbler</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -160,9 +276,10 @@
       <image:caption>Souvenir tumbler stainless steel custom logo perusahaan premium</image:caption>
     </image:image>
   </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/produk-welcome-kit</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -172,242 +289,203 @@
     </image:image>
   </url>
 
-  <!-- ===== HALAMAN PAKET & KOLEKSI ===== -->
   <url>
-    <loc>https://souvenirkantorjakarta.web.id/paket-souvenir-kantor-premium-jakarta</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/bundling-souvenir-kantor-eksklusif-bandung</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/office-starter-pack-souvenir-kantor-custom-logo-esensial</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/executive-series-souvenir-kantor-custom-logo-finishing-premium-surabaya</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/signature-collection-souvenir-kantor-eksklusif-premium</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/gift-set-souvenir-kantor-premium</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/paket-souvenir-kantor-gathering-anniversary-perusahaan</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/paket-souvenir-kantor-premium-jakarta-raya</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/set-souvenir-kantor-custom-tumbler-notebook-pulpen</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- ===== HALAMAN ARTIKEL / LANDING SEO ===== -->
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-unik</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-budget-terjangkau</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-logo-identitas-brand-profesional</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-eksklusif-kesan-profesional-perusahaan</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-unik-minimalis-jakarta-bekasi</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-unik-modern-office</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/ide-souvenir-kantor-custom-branding-perusahaan</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/produk-souvenir-kantor-unik-merchandise-perusahaan</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-logo-untuk-event-seminar-company-gathering</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-makassar-balikpapan-seluruh-indonesia</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-custom</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-eksklusif-meeting-gathering-anniversary</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-elegan-kulit-kayu-stainless</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-bali-lombok-indonesia</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-branding</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-kulit-asli</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-seminar-gathering-welcome-kit</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- ===== ARTIKEL BLOG TAMBAHAN ===== -->
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/beda-kebutuhan-souvenir-kantor-untuk-klien-karyawan</loc>
-    <lastmod>2026-08-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/blog-3</loc>
-    <lastmod>2026-08-13</lastmod>
+    <loc>https://souvenirkantorjakarta.web.id/produk</loc>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/produk/set-premium.webp</image:loc>
+      <image:title>Katalog Produk Souvenir Kantor Premium</image:title>
+      <image:caption>Lengkap katalog souvenir kantor custom logo premium Jakarta Malang</image:caption>
+    </image:image>
   </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/paket-seminar-kit-eksklusif-50-ribuan</loc>
-    <lastmod>2026-08-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/paket-seminar-kit-murah-20-ribuan</loc>
-    <lastmod>2026-08-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/pilihan-souvenir-kantor-20-ribuan-fungsional</loc>
-    <lastmod>2026-08-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/pilihan-souvenir-kantor-50-ribuan-fungsional</loc>
-    <lastmod>2026-08-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/pusat-souvenir-kantor-murah-jakarta</loc>
-    <lastmod>2026-08-13</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/pusat-supplier-souvenir-kantor-jakarta-murah</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/set-souvenir-kantor-custom-tumbler-notebook-pulpen</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/signature-collection-souvenir-kantor-eksklusif-premium</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-logo-identitas-brand-profesional</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-logo-solusi-branding-perusahaan</loc>
-    <lastmod>2026-08-13</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-logo-untuk-event-seminar-company-gathering</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-custom-makassar-balikpapan-seluruh-indonesia</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-custom</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-di-bawah-50-ribu</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-eksklusif-kesan-profesional-perusahaan</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-eksklusif-meeting-gathering-anniversary</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-elegan-kulit-kayu-stainless</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-murah-20-ribuan</loc>
-    <lastmod>2026-08-13</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-murah-50-ribu</loc>
-    <lastmod>2026-08-13</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-bali-lombok-indonesia</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-branding</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-budget-terjangkau</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-kulit-asli</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-seminar-gathering-welcome-kit</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium-untuk-branding-perusahaan</loc>
-    <lastmod>2026-08-13</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-premium</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-ramah-lingkungan</loc>
-    <lastmod>2026-08-13</lastmod>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-unik-minimalis-jakarta-bekasi</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-unik-modern-office</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/souvenir-kantor-unik</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/tentang</loc>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
