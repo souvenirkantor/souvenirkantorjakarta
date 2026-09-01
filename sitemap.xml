@@ -609,4 +609,28 @@
     <priority>0.8</priority>
   </url>
 
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/notebook-custom-perusahaan</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/notebook-custom-perusahaan-logo-brand.webp</image:loc>
+      <image:title>Notebook Custom Perusahaan Souvenir Kantor Eksklusif</image:title>
+      <image:caption>Notebook custom perusahaan cetak logo berkualitas untuk corporate gift dan apresiasi kantor</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/pusat-supplier-notebook-custom-perusahaan-jakarta</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/pusat-supplier-notebook-custom-perusahaan-jakarta.webp</image:loc>
+      <image:title>Pusat Supplier Notebook Custom Perusahaan Jakarta Grosir</image:title>
+      <image:caption>Pusat supplier notebook custom perusahaan Jakarta melayani buku agenda logo grosir</image:caption>
+    </image:image>
+  </url>
+
 </urlset>
