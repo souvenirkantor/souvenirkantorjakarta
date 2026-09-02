@@ -2013,7 +2013,7 @@ h6 {
     z-index: 3;
   }
 
-  .page-title h1 {
+  .page-title h1, .page-title .title-banner {
     font-size: 42px;
     font-weight: 700;
     margin-bottom: 10px;
