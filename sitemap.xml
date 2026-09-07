@@ -726,5 +726,33 @@
       <image:title>Deretan sampel bahan tas promosi dari Souvenir Kantor Jakarta</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/power-bank-souvenir-custom</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/power-bank-souvenir-custom-logo.webp</image:loc>
+      <image:title>Power bank souvenir custom logo dalam kotak kemasan eksklusif corporate gift</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/power-bank-souvenir-wireless-fast-charging.webp</image:loc>
+      <image:title>Power bank souvenir model wireless fast charging untuk cenderamata bisnis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/power-bank-wireless-souvenir-eksklusif</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/power-bank-wireless-souvenir-eksklusif-vip.webp</image:loc>
+      <image:title>Power bank wireless souvenir eksklusif dengan teknologi MagSafe dan kemasan hardbox</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/power-bank-wireless-magsafe-charging-pad.webp</image:loc>
+      <image:title>Penggunaan power bank wireless MagSafe dengan daya lekat presisi untuk eksekutif</image:title>
+    </image:image>
+  </url>
 
 </urlset>
