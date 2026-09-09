@@ -6,43 +6,73 @@
 
   <url>
     <loc>https://souvenirkantorjakarta.web.id/</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/blog</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/blog-2</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/blog-3</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/blog-4</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/jenis-souvenir-power-bank</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/jenis-souvenir-power-bank-1.webp</image:loc>
+      <image:title>Jenis Souvenir Power Bank Perusahaan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/jenis-souvenir-power-bank-2.webp</image:loc>
+      <image:title>Souvenir Power Bank MagSafe Perusahaan</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/power-bank-souvenir-surabaya</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/power-bank-souvenir-surabaya-1.webp</image:loc>
+      <image:title>Power Bank Souvenir Surabaya</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/power-bank-souvenir-surabaya-2.webp</image:loc>
+      <image:title>Power Bank Souvenir Perusahahaan Surabaya</image:title>
+    </image:image>
   </url>
 
   <url>
     <loc>https://souvenirkantorjakarta.web.id/beda-kebutuhan-souvenir-kantor-untuk-klien-karyawan</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/blog-2</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/blog-3</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/blog-4</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://souvenirkantorjakarta.web.id/blog</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
@@ -198,6 +228,18 @@
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/power-bank-souvenir-surabaya</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/power-bank-souvenir-surabaya-1.webp</image:loc>
+      <image:title>Power Bank Souvenir Surabaya untuk Kebutuhan Corporate Gift</image:title>
+      <image:caption>Pengadaan power bank souvenir Surabaya untuk corporate gift perusahaan</image:caption>
+    </image:image>
   </url>
 
   <url>
