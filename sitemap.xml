@@ -6,37 +6,67 @@
 
   <url>
     <loc>https://souvenirkantorjakarta.web.id/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://souvenirkantorjakarta.web.id/blog</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://souvenirkantorjakarta.web.id/blog-2</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://souvenirkantorjakarta.web.id/blog-3</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://souvenirkantorjakarta.web.id/blog-4</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/momen-pemberian-souvenir-power-bank</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/momen-pemberian-souvenir-power-bank-1.webp</image:loc>
+      <image:title>Gift Set Souvenir Power Bank</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/momen-pemberian-souvenir-power-bank-2.webp</image:loc>
+      <image:title>Pemberian Souvenir Power Bank</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://souvenirkantorjakarta.web.id/power-bank-custom-logo</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/power-bank-custom-logo-1.webp</image:loc>
+      <image:title>Power Bank Custom Logo Media Branding Kantor Ber-ROI Tinggi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://souvenirkantorjakarta.web.id/assets/img/blog/power-bank-custom-logo-2.webp</image:loc>
+      <image:title>Teknik Branding Presisi Power Bank Custom Logo</image:title>
+    </image:image>
   </url>
 
   <url>
